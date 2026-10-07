@@ -1,0 +1,6 @@
+{
+  "name": "Edu Cadito - El Niño Que Educa Niños",
+  "description": "App educativa e interactiva con canciones de buenos modales, juegos de rompecabezas, memoria y herramientas para padres y niños.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
